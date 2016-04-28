@@ -1,1 +1,6 @@
 C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.exe.config
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.exe
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.pdb
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.csprojResolveAssemblyReference.cache
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.exe
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.pdb
