@@ -1,0 +1,5 @@
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises2\PracticeExercises2\bin\Debug\PracticeExercises2.exe.config
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises2\PracticeExercises2\bin\Debug\PracticeExercises2.exe
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises2\PracticeExercises2\bin\Debug\PracticeExercises2.pdb
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises2\PracticeExercises2\obj\Debug\PracticeExercises2.exe
+C:\Users\Jase\Documents\GitHub\INFDEV03\PracticeExercises2\PracticeExercises2\obj\Debug\PracticeExercises2.pdb
